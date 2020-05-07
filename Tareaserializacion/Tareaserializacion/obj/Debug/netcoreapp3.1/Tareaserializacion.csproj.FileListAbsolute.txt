@@ -1,0 +1,13 @@
+C:\Users\rvarg\Desktop\ejercicio-serializacion-Raimundo-vargas\Tareaserializacion\Tareaserializacion\bin\Debug\netcoreapp3.1\Tareaserializacion.exe
+C:\Users\rvarg\Desktop\ejercicio-serializacion-Raimundo-vargas\Tareaserializacion\Tareaserializacion\bin\Debug\netcoreapp3.1\Tareaserializacion.deps.json
+C:\Users\rvarg\Desktop\ejercicio-serializacion-Raimundo-vargas\Tareaserializacion\Tareaserializacion\bin\Debug\netcoreapp3.1\Tareaserializacion.runtimeconfig.json
+C:\Users\rvarg\Desktop\ejercicio-serializacion-Raimundo-vargas\Tareaserializacion\Tareaserializacion\bin\Debug\netcoreapp3.1\Tareaserializacion.runtimeconfig.dev.json
+C:\Users\rvarg\Desktop\ejercicio-serializacion-Raimundo-vargas\Tareaserializacion\Tareaserializacion\bin\Debug\netcoreapp3.1\Tareaserializacion.dll
+C:\Users\rvarg\Desktop\ejercicio-serializacion-Raimundo-vargas\Tareaserializacion\Tareaserializacion\bin\Debug\netcoreapp3.1\Tareaserializacion.pdb
+C:\Users\rvarg\Desktop\ejercicio-serializacion-Raimundo-vargas\Tareaserializacion\Tareaserializacion\obj\Debug\netcoreapp3.1\Tareaserializacion.csprojAssemblyReference.cache
+C:\Users\rvarg\Desktop\ejercicio-serializacion-Raimundo-vargas\Tareaserializacion\Tareaserializacion\obj\Debug\netcoreapp3.1\Tareaserializacion.csproj.CoreCompileInputs.cache
+C:\Users\rvarg\Desktop\ejercicio-serializacion-Raimundo-vargas\Tareaserializacion\Tareaserializacion\obj\Debug\netcoreapp3.1\Tareaserializacion.AssemblyInfoInputs.cache
+C:\Users\rvarg\Desktop\ejercicio-serializacion-Raimundo-vargas\Tareaserializacion\Tareaserializacion\obj\Debug\netcoreapp3.1\Tareaserializacion.AssemblyInfo.cs
+C:\Users\rvarg\Desktop\ejercicio-serializacion-Raimundo-vargas\Tareaserializacion\Tareaserializacion\obj\Debug\netcoreapp3.1\Tareaserializacion.dll
+C:\Users\rvarg\Desktop\ejercicio-serializacion-Raimundo-vargas\Tareaserializacion\Tareaserializacion\obj\Debug\netcoreapp3.1\Tareaserializacion.pdb
+C:\Users\rvarg\Desktop\ejercicio-serializacion-Raimundo-vargas\Tareaserializacion\Tareaserializacion\obj\Debug\netcoreapp3.1\Tareaserializacion.genruntimeconfig.cache
